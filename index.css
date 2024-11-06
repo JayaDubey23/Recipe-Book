@@ -1,0 +1,160 @@
+body{
+    background-color: #e4d8d8;
+
+}
+/* .holecontainer{
+    height: 100%;
+    width: 100%;
+    border: 1px solid blue;
+} */
+/*css of header */
+header{
+    height: 150px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+
+}
+.cont{
+    height: 100px;
+    width: 100%;
+
+}
+.logo{
+    height: 80px;
+    width: 100%;
+
+}
+.menu{
+    height: 100px;
+    width: 100%;
+    margin: auto;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    margin-left: 80px;
+    color: black;
+    font-size: 20px;
+}
+
+
+/*css of main */
+.about{
+    height: 100px;
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+
+}
+.para{
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.row{
+    height: 250px;
+    margin: auto;
+    margin-top: 50px;
+}
+.col{
+    height: 250px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    box-shadow: 10px 10px 15px black;
+    /* border: 1px solid rgb(62, 6, 6); */
+
+}
+col:hover{
+    color: #4a4e69;
+}
+.card-img-top{
+    height: 150px;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    margin-left: 0px;
+
+}
+.card-text{
+    height: 250px;
+    width: 100%;
+}
+/* css of footer */
+.one{
+    height: 150px;
+    width: 70%;
+    margin: auto;
+    margin-top: 75%;
+}
+.first , .second{
+    height: 50px;
+    width: 33%;
+    float: left;
+}
+.socialmedia{
+    padding: 5px;
+    margin-left: 4px;
+    height: 40px;
+}
+.two{
+
+    margin: auto;
+    padding-top: 50px;
+    text-align: center;
+}
+/* Recipe CSS */
+.recipe{
+    height: 200px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin-top: 20px;
+    background-color: #4a4e69;
+    text-align: center;
+    padding-top: 20px;
+    color: wheat;
+}
+.reced{
+    height: 200px;
+    width: 50%;
+    margin: auto;
+    /* border: 1px solid rgb(76, 0, 255); */
+    
+    
+}
+.rowrecipe{
+    height: 250px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    /* border: 1px solid red; */
+}
+.col-sm-4 {
+    height: 250px;
+    width: 25%;
+    /* border: 1px solid red; */
+    float: left;
+}
+.col-sm-8 {
+    color: #4a4e69;
+    height: 250px;
+    width: 74%;
+    padding-left: 50px;
+    /* border: 1px solid red; */
+    float: left;
+
+}
+.btn {
+    background-color: #4a4e69;
+    color: black;
+}
+p{
+    margin-top: 30px;
+}
+
+
